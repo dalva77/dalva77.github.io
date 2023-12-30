@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Segunda pagina"
-permalink: /paginas/segunda
+permalink: segunda
+---
 
 Segunda pagina de prueba en el repositorio
 
