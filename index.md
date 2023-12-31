@@ -1,8 +1,7 @@
 ---
 title: ÍNDICE
-layout: template
+layout: home
 filename: index.md
 ---
-
 
 hola soy index.md
