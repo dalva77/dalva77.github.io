@@ -1,8 +1,4 @@
----
-layout: page
-title: "Segunda pagina"
-permalink: segunda
----
+# Segunda pagina
 
 Segunda pagina de prueba en el repositorio
 
