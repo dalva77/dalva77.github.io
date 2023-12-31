@@ -1,3 +1,5 @@
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
 title: Rusticando: Apuntes de Rust
 description: Coleccion personal de notas y recursos sobre el lenguaje Rust (nivel principiante)
